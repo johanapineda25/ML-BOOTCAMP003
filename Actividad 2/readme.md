@@ -1,4 +1,4 @@
-##  Análisis de datos utilizando R 
+##  Análisis de datos utilizando R. 
 # Análisis de Enfermedades Cardiovasculares
 
 Este proyecto analiza un conjunto de datos médicos para explorar factores que influyen en la enfermedad cardiovascular.
